@@ -1,13 +1,10 @@
 <!doctype HTML>
 <html>
-
 <head>
     <title>aula_php</title>
 </head>
-
 <body>
-    <style>
-        
+    <style>  
         *{
             background-color: #d1c9c9#c4c4c4;
         }
@@ -43,6 +40,4 @@
         ?>
     </section>
 </body>
-
-
 </html>
